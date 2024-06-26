@@ -8,7 +8,9 @@ Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and
 Responsive Design: Ensures a seamless experience across all devices, from desktops to smartphones.
 User-Friendly Interface: Clean and intuitive layout for easy usage.
 Real-Time Calculation: Instantly displays results as you type.
+
 Screenshots
+
 
 ![Screenshot (99)](https://github.com/Munishwar001/calculator/assets/161496031/90f14a2c-a113-476a-90bf-b893906decdd)
 
@@ -32,7 +34,5 @@ JavaScript: Enables dynamic calculation functionality.
 License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-Contact
-Your Name - @your_twitter - your.email@example.com
+Contact - Munishwar kalra - kalramunishwar@gmail.com
 
-Project Link: https://github.com/yourusername/calculator-app
