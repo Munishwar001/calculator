@@ -10,7 +10,7 @@ User-Friendly Interface: Clean and intuitive layout for easy usage.
 Real-Time Calculation: Instantly displays results as you type.
 Screenshots
 
-![Screenshot (99)](https://github.com/Munishwar001/calculator/assets/161496031/15bf644f-eca8-460a-bd82-9e1de57586a1)
+![Screenshot (99)](https://github.com/Munishwar001/calculator/assets/161496031/90f14a2c-a113-476a-90bf-b893906decdd)
 
 Getting Started
 
