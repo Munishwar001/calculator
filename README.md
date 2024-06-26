@@ -12,7 +12,7 @@ Real-Time Calculation: Instantly displays results as you type.
 Screenshots
 
 
-![Screenshot (99)](https://github.com/Munishwar001/calculator/assets/161496031/90f14a2c-a113-476a-90bf-b893906decdd)
+![Screenshot (99)](https://github.com/Munishwar001/calculator/assets/161496031/cd203955-1b1a-45bc-86b9-9a216a14060e)
 
 Getting Started
 
@@ -35,4 +35,5 @@ License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 Contact - Munishwar kalra - kalramunishwar@gmail.com
+project -https://github.com/Munishwar001/calculator/tree/main
 
