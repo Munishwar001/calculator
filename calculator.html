@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="calculator.css">
+    <title>Calcular</title>
+</head>
+<body>
+    <div class="cantainer">
+        <div class="screen"> <h1 id="h1"></h1></div>
+        <div class="buttons">
+        <input type="button" value="c" onclick="printf(value)" class="c">
+        <input type="button" value="/" onclick="printf(value)" class="divide">
+        <input type="button" value="*" onclick="printf(value)" class="divide">
+        <input type="button" value="-" onclick="printf(value)" class="divide">
+        <input type="button" value="7" onclick="printf(value)" class="number">
+        <input type="button" value="8" onclick="printf(value)" class="number">
+        <input type="button" value="9" onclick="printf(value)" class="number">
+        <input type="button" value="+" onclick="printf(value)" class="divide">
+        <input type="button" value="4" onclick="printf(value)" class="number">
+        <input type="button" value="5" onclick="printf(value)" class="number">
+        <input type="button" value="6" onclick="printf(value)" class="number">
+        <input type="button" value="=" onclick="printf(value) " class="equal">
+        <input type="button" value="1" onclick="printf(value)" class="number n1">
+        <input type="button" value="2" onclick="printf(value)" class="number n1">
+        <input type="button" value="3" onclick="printf(value)" class="number n1">
+        <input type="button" value="0" onclick="printf(value)" class="number n2">
+        <input type="button" value="." onclick="printf(value)" class="number n3"> 
+
+    </div>
+</div>
+  <script>
+       let a;
+       let str=[];
+      function printf(a)
+       { 
+          if(a=="c"){
+            document.getElementById('h1').innerText="0";
+             str=" ";
+          }
+          else if(a==="="){
+            let b=eval(str);
+            document.getElementById('h1').innerText=b;
+            str=b;
+          }
+        else{  
+         str=str+a;
+         console.log(str);
+         document.getElementById('h1').innerText=str;
+        }
+       }
+  </script>
+</body>
+</html>

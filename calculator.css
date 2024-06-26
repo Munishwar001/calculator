@@ -1,0 +1,77 @@
+.cantainer{
+    height:500px;
+    width:500px;
+    border: 2px solid black;
+    background-color: black;
+    border-radius:10px;
+}
+.screen{
+    height:50px;
+    margin:20px;
+    border:3px solid black;
+    background-color:white;
+    border-radius:5px;
+    border:none;
+     box-shadow: rgba(14, 216, 122, 0.35) 0px 5px 15px;;
+}
+.c{
+    height:60px;
+    width:100px;
+    font-size: larger;
+    color:white;
+    background-color:red;
+    border:none;
+    border-radius:5px;
+}
+.divide{
+    height:60px;
+    width:100px;
+    font-size: larger;
+    color:white;
+    background-color:rgb(10, 126, 194);
+    border:none;
+    border-radius:5px;
+}
+.number{
+    height:60px;
+    width:100px;
+    font-size: larger;
+    font-weight: 300;
+    background-color:white;
+    border:none;
+    border-radius:5px;
+}
+.equal{
+    height:180px;
+    width:100px;
+    font-size: larger;
+    color:white;
+    background-color:rgb(107, 247, 107);
+    border:none;
+    border-radius:5px;
+    float: right;
+}
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+  gap: 10px;
+}
+.n1{
+    position: relative;
+    bottom:7rem;
+}
+.n3{
+    position: relative;
+    bottom:6.5rem;
+    right:11.5rem;
+}
+.n2{
+    position:relative;
+    bottom:2rem;
+    right:15.5rem;
+}
+#h1{
+    justify-content: center;
+    text-align: end;
+}
